@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briankmbugua
 - 👀 I’m interested in fullstack web development using ** MERN STACK **
-- 🌱 I’m currentlyy enrolled in ALX software engineering nano degree
+- 🌱 I’m currently enrolled in ALX software engineering nano degree
 - 💞️ I’m looking to collaborate on javascript/node js projects
 - 📫 ***Email***: briankmbuguak@gmail.com
 
